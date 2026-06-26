@@ -155,21 +155,7 @@ Smart-Customer-Support-Ticket-Classifier-AI/
 ├── requirements.txt
 ├── README.md
 └── customer_support_tickets.csv
-```
 
----
-
-# ▶️ Installation
-
-```bash
-git clone https://github.com/your-username/Smart-Customer-Support-Ticket-Classifier-AI.git
-
-cd Smart-Customer-Support-Ticket-Classifier-AI
-
-pip install -r requirements.txt
-
-python app.py
-```
 
 ---
 
