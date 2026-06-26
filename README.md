@@ -1,3 +1,9 @@
+# Customer Support Ticket Classification Using Hashing Vectorizer and Multinomial Naive Bayes
+
+https://colab.research.google.com/drive/1Yu-i9JQG7RI6SFDjEl3LM0oPZmAe942u#scrollTo=g5CzvJ_JDSNH
+
+https://sugumarranganathan-smart-customer-support-ticket-3abd45d.hf.space/
+
 # 🎫 Smart Customer Support Ticket Classifier AI
 
 ## 📌 Project Overview
