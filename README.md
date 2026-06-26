@@ -189,10 +189,6 @@ Account
 
 # 👨‍💻 Prepared By
 
-**Sugumar Ranganathan**
+**Sugumar Ranganathan, M.B.A.,**
 
-MBA | AI & Data Analytics Enthusiast
 
----
-
-# ⭐ If you found this project useful, please consider giving it a Star on GitHub!
